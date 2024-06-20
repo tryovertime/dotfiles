@@ -4,7 +4,7 @@
 # Based and Steven Black repot: https://github.com/StevenBlack/hosts
 # You will change what you want to block modifying the link of the variable URL_HOSTS
 
-remove_bloatware() {
+hosts_mod() {
 
     HOSTS_FILE="/etc/hosts"
     BACKUP_FILE="/etc/hosts.backup"
