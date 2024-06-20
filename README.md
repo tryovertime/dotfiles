@@ -4,13 +4,15 @@ Welcome to my Fedora Configuration Project!
 This script have got you covered with essential initial setup steps and customization options.
 
 ## Structure
-.
+
+```.
 ├── bloatware
 ├── README.md
 ├── scripts
 │   ├── firststeps.sh
 │   └── hostsmod.sh
 └── install.sh
+```
 
 ## Usage
 
